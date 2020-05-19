@@ -12,3 +12,4 @@ The main purpose is for me to learn Go and refresh my knowledge of Algorithms (a
 ## Todo:
 - Merge sort
 - Bubble sort
+- Binary Search
