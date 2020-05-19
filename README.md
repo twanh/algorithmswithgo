@@ -8,8 +8,8 @@ The main purpose is for me to learn Go and refresh my knowledge of Algorithms (a
 
 ## Content
 - Quick sort algorithm 
+- Binary Search
 
 ## Todo:
 - Merge sort
 - Bubble sort
-- Binary Search
