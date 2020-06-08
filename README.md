@@ -15,4 +15,6 @@ The main purpose is for me to learn Go and refresh my knowledge of Algorithms (a
 - Bubble sort
 - Huffman coding (lossless compression)
 - Lee Algorithm (find the shortest path in a maze)
-- 
+- Dijkstra's algorithm (path finding)
+- Binary Search Tree
+
